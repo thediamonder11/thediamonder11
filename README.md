@@ -2,6 +2,6 @@
 - 👀 I’m interested in java development
 - 🌱 I’m currently learning minecraft plugins using java
 - 💞️ I’m looking to collaborate on these tasks
-- 📫 How to reach me: https://www.thediamonder11.tk
+- 📫 How to reach me: Soon ok!
 
 
