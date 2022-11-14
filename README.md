@@ -8,4 +8,4 @@ Most of my code is now in private organisations.
 
 # What I do 
 I develop skripts for minecraft
-I make roblox games]
+I make roblox games sometimes
