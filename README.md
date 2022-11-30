@@ -10,4 +10,5 @@ Most of my code is now in private organisations.
 I develop skripts for minecraft.
 I make roblox games sometimes.
 
-> Test
+# Why this account exists
+> Im too lazy to use other accounts.
