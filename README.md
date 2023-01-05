@@ -15,3 +15,5 @@ I also do over development.
 > Im too lazy to use other accounts.
  
 > I have lots of my code here.
+
+Thank you for coming to my TEd Talk.
