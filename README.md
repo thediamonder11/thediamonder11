@@ -16,4 +16,4 @@ I also do over development.
  
 > I have lots of my code here.
 
-Thank you for coming to my TEd Talk.
+The code on my profile sometimes gets updated.
